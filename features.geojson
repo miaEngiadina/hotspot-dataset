@@ -1,0 +1,72 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [10.286971, 46.793885],
+        "type": "Point"
+      },
+      "id": "{feature_id}"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scuol Bogn Engiadina",
+        "description": "miaEngiadina Hotspot"
+      },
+      "geometry": {
+        "coordinates": [10.296159, 46.796384],
+        "type": "Point"
+      },
+      "id": "{feature_id}"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scuol Bahnhof",
+        "description": "miaEngiadina Hotspot"
+      },
+      "geometry": {
+        "coordinates": [10.28697, 46.793886],
+        "type": "Point"
+      },
+      "id": "{feature_id}"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scuol Gurlaina"
+      },
+      "geometry": {
+        "coordinates": [10.297369, 46.792721],
+        "type": "Point"
+      },
+      "id": "{feature_id}"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scuol Bogn Engiadina",
+        "description": "miaEngiadina Hotspot"
+      },
+      "geometry": {
+        "coordinates": [10.30144, 46.797808],
+        "type": "Point"
+      },
+      "id": "{feature_id}"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scuol Coop"
+      },
+      "geometry": {
+        "coordinates": [10.295665, 46.79574],
+        "type": "Point"
+      },
+      "id": "{feature_id}"
+    }
+  ],
+  "type": "FeatureCollection"
+}
